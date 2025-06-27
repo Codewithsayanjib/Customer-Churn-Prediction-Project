@@ -61,9 +61,7 @@ The dataset is publicly available from IBM Sample Data for Telco Customer Churn 
 - Demographics (gender, age group) vs. churn
 - Heatmaps for feature correlations
 
-<p align="center">
-  <img src="images/contract_vs_churn.png" width="500">
-</p>
+
 
 ## 💡 Insights
 
@@ -80,5 +78,4 @@ The dataset is publicly available from IBM Sample Data for Telco Customer Churn 
 - Build a dashboard using Power BI or Streamlit
 - Perform cohort and CLV analysis
 
-## 📂 Folder Structure
 
